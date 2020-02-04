@@ -1,0 +1,240 @@
+[
+        {
+            "id": 1,
+            "name": "Atenolol",
+            "presentation": ["Comprimido de 25 ou 50 mg"],
+            "dilution": "Não se Aplica",
+            "indication": ["Angina", "Hipertensão Arterial"],
+            "routeAdm": ["Via Oral", "Sonda Nasoenteral (SNE)"],
+            "care":[
+                "Não administrar o medicamento diante de pulso radial menor 60 bpm, pois a medicação pode causar bradicardia",
+                "Monitorizar pressão arterial",
+                "Monitorizar a frequência cardíaca",
+                "Atentar a sinais gastrointestinais como náusea e vômitos",
+                "Avaliar nível de consciência, pois pode causar alteração do estado mental",
+                "Orientar o paciente quanto aos efeitos da medicação e efeitos adversos"
+            ],
+            
+            "classification": "Os betabloqueadores podem ser diferenciados em três categorias de acordo com a seletividade. Os não seletivos, o qual o atenolol faz parte, bloqueiam tantos os receptores adrenérgicos β1, encontrados principalmente no miocárdio, quanto os β2, encontrados no músculo liso, nos pulmões, nos vasos sanguíneos e em outros órgãos. No sistema cardiovascular, eles inibem as respostas cronotrópicas, inotrópicas e vasoconstritoras à ação das catecolaminas epinefrina e norepinefrina nos receptores beta-adrenérgicos. Em consequência, apresentam efeitos periféricos mais acentuados como aumento da resistência arterial periférica (DANTAN e BRUTON, 2015).",
+            "adverseReaction": "O bloqueio Beta pode causar ou agravar a insuficiência cardíaca em pacientes com insuficiência cardíaca compensada, infarto agudo do miocárdio ou cardiomegalia.  Uso de antagonistas de receptores beta-adrenérgicos é contra indicado em pacientes com asma,  DPOC, pois esse bloqueio pode resultar em broncoconstrição potencialmente fatal. Além disso pode causar bradicardia sinusal e choque cardiogênico (DANTAN e BRUTON, 2015).",
+            "therapeuticUse": "Intensamente utilizados no tratamento da hipertensão, da angina e das síndromes coronarianas agudas,  bem como da insuficiência cardíaca congestiva.  esses fármacos também são utilizados com frequência no tratamento de arritmias supraventriculares e ventriculares (DANTAN e BRUNTON, 2015).",
+            "interactionMed": ["Anlodipino","Ampicilina","Atensina","Lidocaína","Noradrenalina"],
+            "interactionEffect": [" \u2191 do efeito hipotensor do anlodipino e ocorrência de bradicardia.","\u2193 do efeito anti-hipertensivo do betabloqueador."," \u2191 do efeito hipertensivo de rebote devido retirada abrupta de Clonidina.","Pode ocorrer sonolência, alterações do estado mental, bradicardia e hipotensão.", " \u2191 do efeito vasopressórico da noradrenalina."]
+        },
+        {
+            "id": 2,
+            "name": "Amiodarona",
+            "presentation": ["Comprimidos de 100 e 200 mg", "Ampolas 50 mg/ml 3 ml"],
+            "dilution": "SG 5% 250 ml",
+            "indication": ["Arritmias ventriculares", "Arritmias supraventriculares"],
+            "routeAdm": ["Endovenosa", "Via Oral"],
+            "care":[
+                "Administrar utilizando uma bomba de infusão",
+                "Avaliar rigorosamente frequência cardíaca",
+                "Atentar para alterações visuais",
+                "Observar padrão ventilatório e/ou doenças prévias pulmonares, pois o uso prolongado da amiodarona pode causar fibrose pulmonar",
+                "Avaliar pigmentação grisácea de face, pescoço e braços, ruch cutâneo é um possível efeito adverso",
+                "Avaliar estabilidade postural (pode causar tontura)",
+                "Registrar características da função gastrointestinal",
+                "Evitar exposição da medicação a luz, pois a medicacão tem sensibilidade a luz, e quando exposta forma cristas de amiodarona",
+                "Atentar a aceitação da dieta",
+                "Quando administrada em via periférica, atentar a permeabilidade do acesso e a sinais de flebite"
+            ],
+            
+            "classification": "A amiodarona é um análogo estrutural do hormônio da tireóide,  e parte das suas ações antiarrítmicas e da sua toxicidade são devidas a interação com os receptores desse hormônio. Possui o efeito de manutenção do ritmo sinusal em pacientes com arritmias cardíacas.(DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "A hipotensão decorrente da vasodilatação e a depressão do desempenho miocárdico são frequentes com a forma intravenosa da amiodarona. O efeito adverso mais grave durante o tratamento a longo prazo com amiodarona é a fibrose pulmonar, que pode ser rapidamente progressiva e fatal (DANDAN e BRUNTON, 2015).A medicação pode causar bradicardia, ressecamento de córnea e conjuntiva devido ao depósito de cristais de amiodarona. Além de, diarreia, inapetência e náuseas e rush cutâneo (da SILVA, 2003).",
+            "therapeuticUse": "Tem um espectro alargado de indicações, sendo eficaz no tratamento de arritmias supraventricular, nodal e ventricular como por exemplo na forma intravenosa é indicada para cessação imediata da taquicardia ou da fibrilação ventricular. Além do tratamento de arritmias comuns como a fibrilação atrial (DANDAN e BRUNTON, 2015) e (CAMPOS, 2004).",
+            "interactionMed": ["Lidocaína" , "Amitriptilina Levofloxacino/ Moxifloxacino Clorpromazina" , "Hidrocortisona e Ondansetrona",  "Fenitoína", "Fluconazol"],
+            "interactionEffect":["Crises convulsivas.", "Arritmias ventriculares.", "Risco de arritmias Hipocalemia Hipomagnesemia.", " \u2191 dos efeitos tóxicos da Fenitoína.", " \u2191 do risco de cardiotoxicidade (prolongamento intervalo QT, torsades de pointes,parada cardíaca)."]
+        },
+        {
+            "id": 3,
+            "name": "Anlodipino",
+            "presentation": ["Comprimidos de 5 ou 10 mg"],
+            "dilution": "Não se aplica",
+            "indication": ["Angina", "Hipertensão Arterial"],
+            "routeAdm": ["Via Oral", "Sonda Nasoenteral (SNE)"],
+            "care":[
+                "Monitorizar pressão arterial",
+                "Observar sinais de congestão (edemas de mãos e pés e alteração da respiração e frequência cardíaca)",
+                "Atentar para tonturas e sonolência",
+                "Observar sinais de reações alérgicas como edema, prurido, hiperemia e calor",
+                "Observar parâmetro de frequência cardíaca",
+                "Orientar o paciente quanto aos efeito da medicação"
+            ],
+            "classification": "Bloqueadores dos canais de cálcio. São classificados em derivados dihidropiridínicos e não-dihidropiridínicos. A heterogeneidade estrutural levou à heterogeneidade funcional, principalmente em relação à potência vasodilatadora e efeitos inotrópico, cronotrópico e dromotrópico no coração. Tem curta duração provocam ativação neuro-hormonal reflexa do sistema nervoso simpático, caracterizada por taquicardia, aumento do débito cardíaco e aumento da concentração plasmática de catecolaminas e da atividade plasmática da renina (NIGRO e FORTES, 2005).",
+            "adverseReaction": "O edema periférico Pode surgir em alguns pacientes  com os  bloqueadores do canal de cálcio; é mais provável que seja resultado do aumento da pressão hidrostática nas extremidades inferiores causadas pela dilatação pré capilar e constrição reflexa pós capilar. Outros efeitos adversos destes fármacos são causados por ações no músculo liso e não vascular. A contração do esfíncter esofágico inferior em vida pelos bloqueadores do canal de cálcio. Esses bloqueadores podem provocar ou agravar o refluxo gastresofágico (DANDAN E BRUNTON, 2005).",
+            "therapeuticUse": "Pode ser utilizado nos casos de angina variante, angina por esforço, angina instável, infarto agudo do miocárdio. Além disso, podem atenuar o vasospasmo induzido pela ergonovina em pacientes com angina variante. Também são usados como agentes antiarritmicos, para o tratamento da Hipertensão e no tratamento da insuficiência cardíaca (DANDAN E BRUNTON, 2005).",
+            "interactionMed": ["Atenolol", "Atracúrio", "Fluconazol", "Nitroprussiato de sódio", "Fenitoína"],
+            "interactionEffect":[" \u2191 o efeito hipotensor do anlodipino e ocorrência de bradicardia.", " \u2191 o efeito bloqueador neuromuscular do atracúrio/pancurônio.", " \u2191 os efeitos terapêuticos e tóxicos dos bloqueadores de canal de cálcio.", "\u2191 o efeito hipotensor do Nitroprussiato.", "\u2191 os efeitos tóxicos da Fenitoína."]
+        },
+        {
+            "id": 4,
+            "name": "Captopril",
+            "presentation": ["Comprimidos de 12.5, 25 e 50mg"],
+            "dilution": "Não se aplica",
+            "indication": ["Hipertensão Arterial", "Adjuvante para IC"],
+            "routeAdm": ["Via Oral","Sonda Nasoenteral (SNE)"],
+            "care":[
+                "Atentar para cefaleia ou hipotensão postural",
+                "Monitorizar regularmente a pressão arterial",
+                "Atentar para tosse seca",
+                "Atentar ao débito urinário e exames laboratoriais EAS e hemograma, pois a medicação pode desenvolver proteinúria e anemia",
+                "Monitorizar a frequência cardíaca, risco de arritmias por conta da hiperpotassemia",
+                "Pode causar desconforto torácico, atentar para os protocolos institucionais de dor torácica"
+            ],
+            "classification": "Os inibidores da enzima conversora de angiotensina (ECA) impedem a conversão de angiotensina I em angiotensina II, que é um vasoconstritor potente, atenuando assim seus efeitos. A inibição ECA diminui a resistência vascular sistêmica e as pressões arteriais média, diastólica e sistólica. Os inibidores da ECA provocam dilatação arteriolar sistêmica e aumentam a complacência das artérias de grande calibre, contribuindo para uma redução da pressão sistólica (CHAVES, 2015) e (DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "Hipotensão; tosse (5 a 20% dos pacientes, os inibidores da ECA induzem tosse seca incômoda mediada pelo acúmulo de bradicinina); Hiperpotassemia (os inibidores da ECA podem causar hiperpotassemia pacientes com insuficiência renal ou diabetes, bem como naqueles em uso de diuréticos poupadores de potássio; insuficiência renal aguda (a inibição da ECA pode induzir insuficiência renal aguda em pacientes com estenose bilateral da artéria renal, estenose da artéria em um único remanescente, insuficiência cardíaca ou depressão de volume devido à diarreia ou diuréticos) (DANDAN e BRUNTON, 2015).", 
+            "therapeuticUse": "Os fármacos que interferem no sistema renina-angiotensina desempenham um papel de destaque no tratamento da doença cardiovascular a principal causa de mortalidade nas sociedades modernas (DANDAN e BRUNTON, 2015).",
+            "interactionMed": ["AAS, Antiácido","Espironolactona"," Insulina"],
+            "interactionEffect" : ["\u2193 da resposta anti-hipertensiva."," \u2191 do efeito hipercalemico dos IECA (Captopril/Enalapril).", "\u2191 do efeito hipoglicimiante (cefaléia, tontura, sonolência náuseas, fome, tremores, fraqueza, sudorese, palpitações)."]
+        },
+        {
+            "id": 5,
+            "name": "Atensina/Clonidina",
+            "presentation": ["Comprimido 0.1, 0.15 e 0.20 mg", "Ampola de 1 ml com 150 mcg/ml"],
+            "dilution": "Solução Fisiológica 0,9% para diluição da ampola.",
+            "indication": ["Hipertensão Arterial", "Analgésico de ação curta", "Potencializar o efeito anestésico"],
+            "routeAdm": ["Endovenosa", "Via Oral", "Sonda Nasoenteral (SNE)"],
+            "care":[
+                "Monitorar pressão arterial",
+                "Observar sinais de congestão (edemas de mãos e pés e alteração da respiração e frequência cardíaca)",
+                "Atentar para tonturas e sonolência",
+                "Observar sinais de reações alérgicas como edema, prurido, hiperemia e calor",
+                "Observar parâmetro de frequência cardíaca",
+                "Orientar o paciente quanto aos efeitos da medicação"
+            ],
+
+            "classification": "Pertence ao grupo dos agonistas dos receptores adrenérgicos alfa 2 seletivos. Após a administração endovenosa da clonidina, apresenta rápida elevação da pressão arterial, seguida de queda pressórica muito mais prolongada. Essa ação hipertensora inicial ocorre devido à estimulação periférica dos receptores adrenérgicos. Também se liga aos receptores imidazolínicos, que podem mediar a ação hipotensora (DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "Os principais efeitos adversos da clonidina consiste em ressecamento da boca e sedação. Em alguns pacientes, observa-se bradicardia pronunciada. Ocorrem reações de abstinência após a interrupção abrupta da terapia em longo prazo com clonidina em alguns pacientes hipertensos (DANDAN e BRUTON, 2015).", 
+            "therapeuticUse": "O principal uso terapêutico da clonidina é o tratamento da hipertensão. Pode ser também utilizada no tratamento de outros distúrbios como na redução da diarreia em alguns pacientes diabéticos com neuropatia autônoma; e no tratamento e na preparação de adictos para suspensão de narcóticos (DANDAN e BRUNTON, 2015).",
+            "interactionMed": ["Amitriptilina","Atenolol"],
+            "interactionEffect" : ["\u2193 do efeito anti-hipertensivo da Clonidina.","\u2191 do efeito hipertensivo de rebote devido retirada abrupta de Clonidina."]
+        },
+        {
+            "id": 6,
+            "name": "Dobutamina",
+            "presentation": ["Ampolas de 20 ml com 250 mg (12.5 mg/ml)"],
+            "dilution": "Solução fisiológica 0,9% ou glicosada 5%",
+            "indication": ["Insuficiência Cardíaca Aguda"],
+            "routeAdm": ["Endovenosa"],
+            "care":[
+                "Atentar para os valores de diluição mínima de 5mg/ml em soro fisiológico ou glicosado",
+                "Pode ser administrada em mesma via da dopamina, adrenalina, noradrenalina, lidocaína, vecurônio e atracúrio",
+                "Atentar para cefaleia tontura tremores e ansiedade possíveis efeitos adversos da medicação",
+                "Manter cliente em monitorização de pressão arterial e frequência cardíaca",
+                "Realizar eletrocardiograma em casos de alterações clínicas",
+                "Administração da medicação em bomba infusora",
+                "Atentar ao padrão ventilatório, devido a risco de dispneia",
+                "Atentar a sinais de náuseas",
+                "Caso a dobutamina não for diluída, a administração deve ser exclusivamente em acesso venoso central"
+            ],
+            "classification": "É um agonista dos receptores beta-adrenérgicos. Exerce efeitos inotrópicos proporcionalmente mais proeminentes do que cronotrópicos sobre o coração. A ação nos receptores beta-adrenérgicos, promove aumento do débito cardíaco e redução nas pressões de enchimento ventricular, no modelo dose-dependente. Também ocorre diminuição das pressões venosa central e capilar pulmonar devido à melhor performance do coração, sem haver, contudo, alteração da resistência vascular pulmonar.(FONSECA, 2001) e (DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "Os pacientes com anamnese de hipertensão podem exibir resposta pressora exagerada com mais frequência.  Os pacientes com fibrilação atrial correm risco de aumento acentuado na taxa de resposta ventricular; para evitar esse problema, pode ser necessário administrar digoxina ou instituir outras medidas. Como qualquer outro fármaco inotrópico, a dobutamina pode aumentar a dimensão do infarto do miocárdio por elevar a demanda de oxigênio do miocárdio(DANDAN e BRUNTON, 2015). Além disso, pode causar cefaleia, tonteira, tremores e ansiedade Assim como hipotensão e Hipertensão(da SILVA, 2003).",
+            "therapeuticUse": "Tratamento de curta duração na descompensação cardíaca, que pode ocorrer após cirurgia cardíaca ou em pacientes com insuficiência cardíaca congestiva ou infarto agudo do miocárdio. Nesses pacientes a dobutamina aumenta o débito cardíaco e o volume sistólico, habitualmente sem aumento pronunciado da frequência cardíaca.(DANDAN e BRUNTON, 2015).",
+            "interactionMed": ["Sais de cálcio (Gluconato de cálcio/Carbonato de cálcio)", "Beta bloqueadores", "Antidepressivos tricíclicos (fluoxetina)", "Linezolida"],
+            "interactionEffect": ["\u2193 o débito cardíaco.", "Risco de hipotensão arterial grave.", "\u2191 a resposta vasopressora: hipertensão arterial.", "\u2191 resposta pressora da dobutamina."]
+        },
+        {
+            "id": 7,
+            "name": "Losartana Potássica",
+            "presentation": ["Comprimidos 50 ou 100 mg"],
+            "dilution": "Não se aplica",
+            "indication": ["Hipertensão Arterial"],
+            "routeAdm": ["Via Oral", "Sonda Nasoenteral (SNE)"],
+            "care":[
+                "Avaliar desequilíbrio hidroeletrolítico, pois tem maior risco de depleção de volume intravascular quando são administradas doses altas de diuréticos",
+                "Monitorar rigorosamente a pressão arterial",
+                "Avaliar padrão de sono do paciente",
+                "Monitorização de frequência cardíaca",
+                "Atentar alterações gastrointestinais",
+                "Orientar o paciente a não se levantar rápido devido ao risco de hipotensão ortostática",
+                "Avaliar sinais de desidratação devido a alteração hidroeletrolítica",
+                "Atentar ao uso em gestantes, pois existe o risco teratogênico",
+                "Atentar ao débito urinário"
+            ],
+
+            "classification": "É um antagonista dos receptores de angiotensina II. Essa classe inibem a maioria dos efeitos biológicos da angiotensina 2, incluindo: concentração do músculo liso vascular induzido pela angiotensina 2; respostas pressóricos rápidas; respostas pressóricas lentas; sede; liberação de vasopressina; secreção de aldosterona; liberação de catecolaminas pelas glândulas suprarrenais; aumento da neurotransmissão noradrenérgica; aumento do tônus simpático; alterações da função renal; e hipertrofia e hiperplasia celulares (DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "A incidência de angioedema e tosse com o seu uso é muito menor do que aquela observada com inibidores da ECA. Em são bem tolerados. Contudo, possuem potencial teratogênico e devem ser interrompido durante a gravidez. Em pacientes cuja pressão sanguínea ou função renal dependem muito do sistema renina angiotensina, podem provocar hipotensão, oliguria, azotemia progressiva, ou insuficiência renal aguda. Além disso, podem causar hiperpotassemia em pacientes com doença renal ou naqueles em o uso de suplementos de potássio ou diuréticos poupadores de potássio (DANDAN e BRUNTON, 2015).",
+            "therapeuticUse": "A Losartana é aprovada para nefropatia diabética e para profilaxia do acidente vascular encefálico. Sua eficácia na redução da pressão arterial é comparável aquela dos inibidores da ECA e de outros anti-hipertensivos estabelecidos com perfil favorável de efeitos adversos (DANDAN e BRUNTON, 2015).",
+            "interactionMed": ["Dipirona sódica","Espironolactona","Fluconazol"],
+            "interactionEffect":["Hipotensão e \u2191 do risco de problemas renais.","Hipercalemia.","Hipotensão."]
+            
+        },
+        {   
+            "id": 8,
+            "name": "Nitroglicerina",
+            "presentation": ["Adesivo Transdérmico", "Solução Injetável de 25 mg em 5 ml ou 50 mg em 10 ml"],
+            "dilution": "SG 5% ou SF 0.9% (500 ml), isentos de PVC",
+            "indication": ["Angina", "IC", "Hipertensão"],
+            "routeAdm": ["Endovenosa"],
+            "care":[
+                "Preparar em frascos de vidro ou frascos livres de PVC",
+                "Administrar a medicação em ambiente de unidade de terapia intensiva",
+                "Controlar rigorosamente a velocidade de infusão (usar bomba de infusão)",
+                "Realizar controle de sinais vitais pressão arterial e frequência cardíaca",
+                "Atentar para cefaleia, tonteira e fraquezas",
+                "Registrar alterações de coloração da pele (palidez)",
+                "Registrar alterações do tipo flebite, pois a medicação e pode causar irritação no local da infusão, caso a via de administração seja periférica",
+                "Atentar ao tempo de estabilidade do dripping de 24 em 24h"            
+            ],
+            "classification": "Faz parte dos nitratos orgânicos considerados agentes pró-fármacos que servem como fontes de óxido nítrico. Dilata preferencialmente mais as veias do que as arteríolas. Essa venodilatação diminui o retorno venoso, levando a uma redução no tamanho das câmaras ventriculares esquerda e direita e as pressões diastólicas finais, enquanto ocorre pouca alteração na resistência vascular sistêmica. A frequência cardíaca permanece inalterada ou pode sofrer ligeira elevação em resposta a uma redução da pressão arterial. A resistência vascular pulmonar e o débito cardíaco estão ligeiramente reduzidos. Em doses mais altas causam maior acúmulo venoso e também podem diminuir a resistência arteriolar, reduzindo, assim, a pressão arterial sistólica e diastólica, bem como débito cardíaco, com consequente palidez, Fraqueza, tontura e ativação dos reflexos simpáticos compensatórios (DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "A cefaleia é comum e pode ser intensa. Em geral diminui no decorrer de poucos dias se o tratamento for mantido e, com frequência, pode ser controlada com a diminuição da dose. Podem surgir episódios transitórios de tontura, fraqueza e outras manifestações associadas a hipotensão postural, particularmente se o paciente permanecer imóvel, podendo, em certas ocasiões, progredir para perda de consciência. (DANDAN e BRUNTON, 2015). Pode também ocorrer palidez cutâneo-mucosa, bradicardia e desconforto retroesternal (da SILVA, 2003).",
+            "therapeuticUse": "Pode ser utilizada para o tratamento da angina, insuficiência cardíaca congestiva e infarto agudo do miocárdio, pois, esse fármaco reduz o consumo de O2 do miocárdio ao reduzir a pré-carga ventricular (DANDAN e BRUNTON, 2015).",
+            "interactionMed": ["Heparina"],
+            "interactionEffect":["\u2193 o efeito anticoagulante da Heparina."]
+            
+        },
+        {
+            "id": 9,
+            "name": "Nitroprussiato de sódio",
+            "presentation": ["Ampola de 2 ml com 25 mg/ml (50 mg)"],
+            "dilution": "Diluente próprio para reconstituir. Depois de reconstituído deve ser diluído em SG 5% de 250 a 1000mL",
+            "indication": ["Crise hipertensiva"],
+            "routeAdm": ["Endovenosa"],
+            "care":[
+                "Administrar a medicação em ambiente de UTI",
+                "Controlar rigorosamente a velocidade de infusão usar bomba de infusão durante a administração",
+                "Tomar precaução para evitar o extravasamento, pois poderá causar irritação",
+                "Não associar a medicação com outro medicamento (via exclusiva de administração)",
+                "Proteger a medicação da luz e usar equipo fotossensível",
+                "Realizar controle rigoroso dos sinais vitais (pressão arterial e frequência cardíaca)",
+                "Realizar a troca da solução a cada 24 horas ou se apresentar alteração da coloração",
+                "Observar o nível de consciência após administração da medicação",
+                "Atentar para cefaleia, tonteira e fadiga",
+                "Atentar para sinais de alteração gastrointestinal (náuseas e vômito)"
+            ],
+            "classification": "É considerado um nitrovasodilatador, que atua por meio da liberação de óxido nítrico que ativa a via guanilato-ciclase-GMP cóclico pKG, resultando em vasodilatação. Atua na dilatação tanto das arteríolas quanto  das vênulas, e resposta hemodinâmica a sua administração resulta de uma combinação de acúmulos venoso e redução da impedância arterial. Logo, promove uma diminuição da pré e pós-cargas(DANDAN e  BRUNTOM, 2015).",
+            "adverseReaction": "Os efeitos adversos a curto prazo do nitroprosseto são decorrentes de vasodilatação excessiva. Com menos frequência, a toxicidade pode resultar da conversão do nitroprussiatoem cianeto e tiocianato. Os sinais e sintomas de intoxicação porcelanato consistem em anorexia, náuseas, Adidas, desorientação, e psicose tóxica. A concetração plasmática de tiocianato deve ser monitorada durante a infusão prolongada de nitroprusseto  e não deve ultrapassar 0,1 MG por ml (DANDAN e BRUNTON, 2015). Este fármaco pode proporcionar inquietude e tremores musculares, alterações de eletrocardiograma, irritação no local da infusão e hipotensão (da SILVA, 2003).",
+            "therapeuticUse": "Tratamento das Emergências hipertensivas. Tem sido utilizado para reduzir a pressão arterial durante a dissecção aguda da aorta, para melhorar o débito cardíaco na insuficiência cardíaca congestiva, particularmente em pacientes hipertensos com edema pulmonar que não respondem a outro tratamento, e para diminuir a demanda de oxigênio do miocárdio após infarto agudo do miocárdio (DANDAN e BRUNTON, 2015).",
+            "interactionMed": ["Anlodipino"],
+            "interactionEffect":["\u2191 do efeito hipotensor do Nitroprussiato"]
+        },
+        {
+            "id": 10,
+            "name": "Noradrenalina",
+            "presentation": ["Ampolas de 4 ml (8 mg) e 8 ml (16 mg) (2 mg/ml)"],
+            "dilution": "Solução glicosada 5%",
+            "indication": ["Controle da PA em casos de hipotensão aguda"],
+            "routeAdm": ["Endovenosa"],
+            "care":[
+                "Avaliar rigorosamente a pressão arterial",
+                "Administrar preferencialmente em via exclusiva e em bomba de infusão",
+                "Avaliar perfusão periférica regularmente, pois em doses elevadas pode causar hipoperfusão periférica grave",
+                "Observar e registrar a frequência cardíaca",
+                "Registrar traçado eletrocardiografico no momento da administração do fármaco",
+                "Observar tremores musculares",
+                "Administrar a medicação o mais proximal possível da inserção venosa, pois proporcionam uma rápida absorção consequentemente um tratamento melhor para o paciente",
+                "Registrar glicemia capilar e dosagens de hormônios tireoidianos, pois hiperglicemia e hipertireoidismo podem ser causadas pela terapêutica",
+                "Não administrar em via periférica, risco de necrose tissular",
+                "Atentar ao mcg/kg/min, risco de isquemia do órgãos em doses altas",
+                "Em doses acima de 10 ml/h de noradrenalina, avaliar o suporte nutricional e/ou suspenção da dieta enteral devido à instabilidade hemodinâmica",
+                "A administração deve ser feita por Bomba de infusão para obtenção de precisão do volume por hora que está sendo infundido"
+            ],
+            "classification": "Faz parte do grupo das catecolaminas. Possui pequeno efeito β2-adrenérgico (relaxamento da musculatura lisa nos leitos vasculares cutâneos, musculares, pulmonares, esplâncnicos, renais, cerebrais e coronarianos). Sua administração acarreta preferencialmente um efeito α1-agonista (vasoconstrição na musculatura lisa de vasos e brônquios).(ALQUALTI, PIVA e GARCIA, 2008) e (DANDAN e BRUNTON, 2015).",
+            "adverseReaction": "É preciso ter cautela para que não ocorra necrose nem descamação no local da injeção intravenosa, em consequência do extravasamento do fármaco. Também é necessário determinar a pressão arterial a intervalos frequentes durante a infusão e, particularmente, durante o ajuste da velocidade de infusão. Redução do fluxo sanguíneo para órgãos como rins e intestino constitui um perigo constante com o uso da noradrenalina.(DANDAN e BRUNTON, 2015). Hiperglicemia e hipertireoidismo são complicações causadas pela terapêutica deve-se possuir cautela principalmente com paciente diabético e hipertireoidiano.(da SILVA, 2003).",
+            "therapeuticUse": "Usada como vasoconstritor para aumentar ou manter a pressão arterial conforme certas condições de cuidados intensivos.(DANDAN e BRUNTON, 2015). Usada para controle da pressão arterial em casos de hipotensão aguda.",
+            "interactionMed": ["Linezolida, Amitriptilina e Atenolol", "Clorpromazina", "Antiácidos e Metildopa"],
+            "interactionEffect":["\u2191 do efeito vasopressórico da noradrenalina.", "\u2191 o efeito arritmogênico da noradrenalina.", " \u2191 a pressão arterial e vasoconstrição."]
+        }
+]
