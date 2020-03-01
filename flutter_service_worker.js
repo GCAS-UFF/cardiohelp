@@ -12,12 +12,12 @@ const RESOURCES = {
 "/assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "3ca122272cfac33efb09d0717efde2fa",
 "/assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d21f791b837673851dd14f7c132ef32e",
 "/assets/AssetManifest.json": "0bb9b5588a8dd779bd586fa1e4472d66",
-"/assets/lib/databases/drugs/drugs.json": "6aeee1637cbbb795ccb99fb66d1316fc",
+"/assets/lib/databases/drugs/drugs.json": "99a2b253bfe6cff8e26757180dd145e1",
 "/assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "/manifest.json": "eae741670cb4c18370ee7621732f0644",
 "/icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "/icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"/main.dart.js": "7e0e9527c1690330df3a7e525a556192",
+"/main.dart.js": "aadec601defded8816e03196ef357c4d",
 "/index.html": "e4ba04425c7e3cc3a3f01c8820516993"
 };
 
